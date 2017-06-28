@@ -5,22 +5,11 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"os"
 )
 
 func main() {
-	port := os.Getenv("PORT")
-
-	if port == "" {
-		log.Fatal("$PORT must be set")
-	}
-
 	var mappings map[string]string
-	f, err := os.Open("./map.json")
-	if err != nil {
-		panic(err)
-	}
-	err = json.NewDecoder(f).Decode(&mappings)
+	err := json.Unmarshal([]byte(data), &mappings)
 	if err != nil {
 		panic(err)
 	}
@@ -33,5 +22,12 @@ func main() {
 		http.Error(w, "Page not found", http.StatusNotFound)
 	}
 	http.HandleFunc("/", handler)
-	log.Fatal(http.ListenAndServe(":"+port, nil))
+	log.Fatal(http.ListenAndServe(":3001", nil))
 }
+
+var data = `
+{
+  "/2.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-2.1-Building_the_server",
+  "/3.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-3.1-Routing_with_if_else_statements"
+}
+`

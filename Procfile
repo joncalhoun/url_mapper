@@ -1,1 +1,0 @@
-web: url_mapper
