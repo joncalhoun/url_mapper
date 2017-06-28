@@ -4,7 +4,7 @@
   "keywords": [
     "go",
   ],
-  "image": "heroku/go:1.8",
+  "image": "heroku/go:1.6",
   "mount_dir": "src/github.com/joncalhoun/url_mapper",
   "website": "http://github.com/joncalhoun/url_mapper",
   "repository": "http://github.com/joncalhoun/url_mapper"
