@@ -123,7 +123,9 @@ var data = `
   "/9.7.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.7.1-Form_name",
   "/9.7.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.6-automigrate...book-9.7.1-Form_name",
   "/9.7.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.7.2-Setup_UserService",
-  "/9.7.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.7.1-Form_name...book-9.7.2-Setup_UserService"
+  "/9.7.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.7.1-Form_name...book-9.7.2-Setup_UserService",
+  "/9.7.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.7.3-UserService_in_controller",
+  "/9.7.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.7.2-Setup_UserService...book-9.7.3-UserService_in_controller"
 }
 `
 
