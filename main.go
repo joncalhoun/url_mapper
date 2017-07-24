@@ -107,7 +107,15 @@ var data = `
   "/8.4.8": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-8.4.8-Create_GORM_relational",
   "/8.4.8-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-8.4.7-Query_multi...book-8.4.8-Create_GORM_relational",
   "/8.4.9": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-8.4.9-Query_GORM_relational",
-  "/8.4.9-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-8.4.8-Create_GORM_relational...book-8.4.9-Query_GORM_relational"
+  "/8.4.9-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-8.4.8-Create_GORM_relational...book-8.4.9-Query_GORM_relational",
+  "/9.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.1-Defining_user",
+  "/9.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-8.4.9-Query_GORM_relational...book-9.1-Defining_user",
+  "/9.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.2-UserService",
+  "/9.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.1-Defining_user...book-9.2-UserService",
+  "/9.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.3-Create_user",
+  "/9.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.2-UserService...book-9.3-Create_user",
+  "/9.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.4-ByEmail_and_DRY",
+  "/9.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.3-Create_user...book-9.4-ByEmail_and_DRY"
 }
 `
 
