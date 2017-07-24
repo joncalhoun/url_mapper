@@ -115,7 +115,11 @@ var data = `
   "/9.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.3-Create_user",
   "/9.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.2-UserService...book-9.3-Create_user",
   "/9.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.4-ByEmail_and_DRY",
-  "/9.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.3-Create_user...book-9.4-ByEmail_and_DRY"
+  "/9.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.3-Create_user...book-9.4-ByEmail_and_DRY",
+  "/9.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.5-Update_delete",
+  "/9.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.4-ByEmail_and_DRY...book-9.5-Update_delete",
+  "/9.6": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-9.6-automigrate",
+  "/9.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.5-Update_delete...book-9.6-automigrate"
 }
 `
 
