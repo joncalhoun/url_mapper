@@ -129,7 +129,11 @@ var data = `
   "/10.4.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.4.1-UserPwField",
   "/10.4.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-9.7.3-UserService_in_controller...book-10.4.1-UserPwField",
   "/10.4.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.4.2-HashPassword",
-  "/10.4.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.1-UserPwField...book-10.4.2-HashPassword"
+  "/10.4.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.1-UserPwField...book-10.4.2-HashPassword",
+  "/10.4.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.4.3-UsePwInController",
+  "/10.4.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.2-HashPassword...book-10.4.3-UsePwInController",
+  "/10.4.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.4.4-SaltAndPepper",
+  "/10.4.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.3-UsePwInController...book-10.4.4-SaltAndPepper"
 }
 `
 
