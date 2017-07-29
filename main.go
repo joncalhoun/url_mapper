@@ -133,7 +133,15 @@ var data = `
   "/10.4.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.4.3-UsePwInController",
   "/10.4.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.2-HashPassword...book-10.4.3-UsePwInController",
   "/10.4.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.4.4-SaltAndPepper",
-  "/10.4.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.3-UsePwInController...book-10.4.4-SaltAndPepper"
+  "/10.4.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.3-UsePwInController...book-10.4.4-SaltAndPepper",
+  "/10.5.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.5.1-LoginTmpl",
+  "/10.5.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.4.4-SaltAndPepper...book-10.5.1-LoginTmpl",
+  "/10.5.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.5.2-LoginAction",
+  "/10.5.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.5.1-LoginTmpl...book-10.5.2-LoginAction",
+  "/10.5.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.5.3-AuthImpl",
+  "/10.5.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.5.2-LoginAction...book-10.5.3-AuthImpl",
+  "/10.5.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.5.4-CallAuth",
+  "/10.5.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.5.3-AuthImpl...book-10.5.4-CallAuth"
 }
 `
 
