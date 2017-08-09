@@ -141,7 +141,15 @@ var data = `
   "/10.5.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.5.3-AuthImpl",
   "/10.5.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.5.2-LoginAction...book-10.5.3-AuthImpl",
   "/10.5.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-10.5.4-CallAuth",
-  "/10.5.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.5.3-AuthImpl...book-10.5.4-CallAuth"
+  "/10.5.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.5.3-AuthImpl...book-10.5.4-CallAuth",
+  "/11.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.2-First_cookie",
+  "/11.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-10.5.4-CallAuth...book-11.2-First_cookie",
+  "/11.3.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.3.2-Read_cookie",
+  "/11.3.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.2-First_cookie...book-11.3.2-Read_cookie",
+  "/11.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.5-Remember_tokens",
+  "/11.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.3.2-Read_cookie...book-11.5-Remember_tokens",
+  "/11.6.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.6.3-hash_pkg",
+  "/11.6.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.5-Remember_tokens...book-11.6.3-hash_pkg"
 }
 `
 
