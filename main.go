@@ -161,7 +161,9 @@ var data = `
   "/11.7.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.5-ByRemember",
   "/11.7.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.4-Hash_tokens...book-11.7.5-ByRemember",
   "/11.7.6": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.6-Test_it",
-  "/11.7.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.5-ByRemember...book-11.7.6-Test_it"
+  "/11.7.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.5-ByRemember...book-11.7.6-Test_it",
+  "/11.8.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.8.1-Token_cookies",
+  "/11.8.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.6-Test_it...book-11.8.1-Token_cookies"
 }
 `
 
