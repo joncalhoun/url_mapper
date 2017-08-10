@@ -149,7 +149,19 @@ var data = `
   "/11.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.5-Remember_tokens",
   "/11.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.3.2-Read_cookie...book-11.5-Remember_tokens",
   "/11.6.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.6.3-hash_pkg",
-  "/11.6.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.5-Remember_tokens...book-11.6.3-hash_pkg"
+  "/11.6.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.5-Remember_tokens...book-11.6.3-hash_pkg",
+  "/11.7.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.1-Remember_fields",
+  "/11.7.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.6.3-hash_pkg...book-11.7.1-Remember_fields",
+  "/11.7.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.2-Set_remember_on_create",
+  "/11.7.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.1-Remember_fields...book-11.7.2-Set_remember_on_create",
+  "/11.7.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.3-HMAC_in_US",
+  "/11.7.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.2-Set_remember_on_create...book-11.7.3-HMAC_in_US",
+  "/11.7.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.4-Hash_tokens",
+  "/11.7.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.3-HMAC_in_US...book-11.7.4-Hash_tokens",
+  "/11.7.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.5-ByRemember",
+  "/11.7.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.4-Hash_tokens...book-11.7.5-ByRemember",
+  "/11.7.6": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.7.6-Test_it",
+  "/11.7.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.5-ByRemember...book-11.7.6-Test_it"
 }
 `
 
