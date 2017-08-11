@@ -165,7 +165,9 @@ var data = `
   "/11.8.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.8.1-Token_cookies",
   "/11.8.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.7.6-Test_it...book-11.8.1-Token_cookies",
   "/11.8.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.8.2-Restricting_access",
-  "/11.8.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.8.1-Token_cookies...book-11.8.2-Restricting_access"
+  "/11.8.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.8.1-Token_cookies...book-11.8.2-Restricting_access",
+  "/11.9": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.9-XSS",
+  "/11.9-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.8.2-Restricting_access...book-11.9-XSS"
 }
 `
 
