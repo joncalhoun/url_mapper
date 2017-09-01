@@ -167,7 +167,25 @@ var data = `
   "/11.8.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.8.2-Restricting_access",
   "/11.8.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.8.1-Token_cookies...book-11.8.2-Restricting_access",
   "/11.9": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-11.9-XSS",
-  "/11.9-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.8.2-Restricting_access...book-11.9-XSS"
+  "/11.9-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.8.2-Restricting_access...book-11.9-XSS",
+  "/12.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.2-UserDB",
+  "/12.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-11.9-XSS...book-12.2-UserDB",
+  "/12.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.3-UserService_interface",
+  "/12.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.2-UserDB...book-12.3-UserService_interface",
+  "/12.4.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.4.1-Val_example",
+  "/12.4.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.3-UserService_interface...book-12.4.1-Val_example",
+  "/12.4.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.4.2-More_val_ex",
+  "/12.4.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.4.1-Val_example...book-12.4.2-More_val_ex",
+  "/12.4.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.4.3-Reusable_vals",
+  "/12.4.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.4.2-More_val_ex...book-12.4.3-Reusable_vals",
+  "/12.5.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.5.1-Remember_token_norm",
+  "/12.5.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.4.3-Reusable_vals...book-12.5.1-Remember_token_norm",
+  "/12.5.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.5.2-Default_remember",
+  "/12.5.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.5.1-Remember_token_norm...book-12.5.2-Default_remember",
+  "/12.5.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.5.3-Min_id",
+  "/12.5.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.5.2-Default_remember...book-12.5.3-Min_id",
+  "/12.6.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.6.1-Email_norm",
+  "/12.6.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.5.3-Min_id...book-12.6.1-Email_norm"
 }
 `
 
