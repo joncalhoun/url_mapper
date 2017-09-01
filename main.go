@@ -185,7 +185,15 @@ var data = `
   "/12.5.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.5.3-Min_id",
   "/12.5.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.5.2-Default_remember...book-12.5.3-Min_id",
   "/12.6.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.6.1-Email_norm",
-  "/12.6.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.5.3-Min_id...book-12.6.1-Email_norm"
+  "/12.6.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.5.3-Min_id...book-12.6.1-Email_norm",
+  "/12.6.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.6.2-Req_email",
+  "/12.6.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.6.1-Email_norm...book-12.6.2-Req_email",
+  "/12.6.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.6.3-Email_regex",
+  "/12.6.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.6.2-Req_email...book-12.6.3-Email_regex",
+  "/12.6.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.6.4-Email_avail",
+  "/12.6.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.6.3-Email_regex...book-12.6.4-Email_avail",
+  "/12.7": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.7-Err_rename",
+  "/12.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.6.4-Email_avail...book-12.7-Err_rename"
 }
 `
 
