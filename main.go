@@ -193,7 +193,11 @@ var data = `
   "/12.6.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.6.4-Email_avail",
   "/12.6.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.6.3-Email_regex...book-12.6.4-Email_avail",
   "/12.7": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.7-Err_rename",
-  "/12.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.6.4-Email_avail...book-12.7-Err_rename"
+  "/12.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.6.4-Email_avail...book-12.7-Err_rename",
+  "/12.8.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.8.1-Pw_len",
+  "/12.8.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.7-Err_rename...book-12.8.1-Pw_len",
+  "/12.8.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.8.2-Pw_req",
+  "/12.8.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.8.1-Pw_len...book-12.8.2-Pw_req"
 }
 `
 
