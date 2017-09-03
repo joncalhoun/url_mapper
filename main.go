@@ -198,8 +198,14 @@ var data = `
   "/12.8.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.7-Err_rename...book-12.8.1-Pw_len",
   "/12.8.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.8.2-Pw_req",
   "/12.8.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.8.1-Pw_len...book-12.8.2-Pw_req",
-  "/12.8.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.9-Rem_vals",
-  "/12.8.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.8.2-Pw_req...book-12.9-Rem_vals"
+  "/12.9": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-12.9-Rem_vals",
+  "/12.9-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.8.2-Pw_req...book-12.9-Rem_vals",
+  "/13.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.1-Bootstrap_alert",
+  "/13.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-12.9-Rem_vals...book-13.1-Bootstrap_alert",
+  "/13.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.2-Dynamic_alerts",
+  "/13.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.1-Bootstrap_alert...book-13.2-Dynamic_alerts",
+  "/13.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.3-Conditional_alerts",
+  "/13.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.2-Dynamic_alerts...book-13.3-Conditional_alerts"
 }
 `
 
