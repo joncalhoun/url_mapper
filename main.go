@@ -205,7 +205,11 @@ var data = `
   "/13.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.2-Dynamic_alerts",
   "/13.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.1-Bootstrap_alert...book-13.2-Dynamic_alerts",
   "/13.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.3-Conditional_alerts",
-  "/13.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.2-Dynamic_alerts...book-13.3-Conditional_alerts"
+  "/13.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.2-Dynamic_alerts...book-13.3-Conditional_alerts",
+  "/13.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.4-View_data",
+  "/13.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.3-Conditional_alerts...book-13.4-View_data",
+  "/13.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.5-Signup_err",
+  "/13.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.4-View_data...book-13.5-Signup_err"
 }
 `
 
