@@ -211,7 +211,11 @@ var data = `
   "/13.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.5-Signup_err",
   "/13.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.4-View_data...book-13.5-Signup_err",
   "/13.6": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.6-Public_errors",
-  "/13.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.5-Signup_err...book-13.6-Public_errors"
+  "/13.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.5-Signup_err...book-13.6-Public_errors",
+  "/13.7": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.7-Login_errors",
+  "/13.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.6-Public_errors...book-13.7-Login_errors",
+  "/13.8": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.8-Render_errors",
+  "/13.8-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.7-Login_errors...book-13.8-Render_errors"
 }
 `
 
