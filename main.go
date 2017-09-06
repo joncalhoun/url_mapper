@@ -215,7 +215,15 @@ var data = `
   "/13.7": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.7-Login_errors",
   "/13.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.6-Public_errors...book-13.7-Login_errors",
   "/13.8": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-13.8-Render_errors",
-  "/13.8-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.7-Login_errors...book-13.8-Render_errors"
+  "/13.8-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.7-Login_errors...book-13.8-Render_errors",
+  "/14.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.1-Gallery_model",
+  "/14.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-13.8-Render_errors...book-14.1-Gallery_model",
+  "/14.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.2-GalleryService",
+  "/14.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.1-Gallery_model...book-14.2-GalleryService",
+  "/14.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.3-Many_services",
+  "/14.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.2-GalleryService...book-14.3-Many_services",
+  "/14.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.4-Services_methods",
+  "/14.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.3-Many_services...book-14.4-Services_methods"
 }
 `
 
