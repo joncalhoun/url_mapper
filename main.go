@@ -223,7 +223,15 @@ var data = `
   "/14.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.3-Many_services",
   "/14.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.2-GalleryService...book-14.3-Many_services",
   "/14.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.4-Services_methods",
-  "/14.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.3-Many_services...book-14.4-Services_methods"
+  "/14.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.3-Many_services...book-14.4-Services_methods",
+  "/14.5.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.5.1-GalleryService",
+  "/14.5.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.4-Services_methods...book-14.5.1-GalleryService",
+  "/14.5.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.5.2-Galleries_controller",
+  "/14.5.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.5.1-GalleryService...book-14.5.2-Galleries_controller",
+  "/14.5.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.5.3-Create_method",
+  "/14.5.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.5.2-Galleries_controller...book-14.5.3-Create_method",
+  "/14.5.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.5.4-Validations",
+  "/14.5.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.5.3-Create_method...book-14.5.4-Validations"
 }
 `
 
