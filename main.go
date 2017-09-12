@@ -27,6 +27,7 @@ func main() {
 
 var data = `
 {
+  "/context": "https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/",
   "/2.1": "https://github.com/joncalhoun/lenslocked.com/tree/book-2.1-Building_the_server",
   "/3.1": "https://github.com/joncalhoun/lenslocked.com/tree/book-3.1-Routing_with_if_else_statements",
   "/3.1-diff": "https://github.com/joncalhoun/lenslocked.com/compare/book-2.1-Building_the_server...book-3.1-Routing_with_if_else_statements",
@@ -231,7 +232,17 @@ var data = `
   "/14.5.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.5.3-Create_method",
   "/14.5.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.5.2-Galleries_controller...book-14.5.3-Create_method",
   "/14.5.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.5.4-Validations",
-  "/14.5.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.5.3-Create_method...book-14.5.4-Validations"
+  "/14.5.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.5.3-Create_method...book-14.5.4-Validations",
+  "/14.6.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.6.1-User_mw",
+  "/14.6.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.5.4-Validations...book-14.6.1-User_mw",
+  "/14.6.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.6.2-User_ctx",
+  "/14.6.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.6.1-User_mw...book-14.6.2-User_ctx",
+  "/14.7.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.7.1-Show_gallery",
+  "/14.7.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.6.2-User_ctx...book-14.7.1-Show_gallery",
+  "/14.7.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.7.2-Path_vars",
+  "/14.7.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.7.1-Show_gallery...book-14.7.2-Path_vars",
+  "/14.7.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.7.3-Gal_ByID",
+  "/14.7.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.7.2-Path_vars...book-14.7.3-Gal_ByID"
 }
 `
 
