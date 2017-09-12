@@ -242,7 +242,9 @@ var data = `
   "/14.7.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.7.2-Path_vars",
   "/14.7.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.7.1-Show_gallery...book-14.7.2-Path_vars",
   "/14.7.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.7.3-Gal_ByID",
-  "/14.7.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.7.2-Path_vars...book-14.7.3-Gal_ByID"
+  "/14.7.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.7.2-Path_vars...book-14.7.3-Gal_ByID",
+  "/14.7.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.7.4-Gen_param_urls",
+  "/14.7.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.7.3-Gal_ByID...book-14.7.4-Gen_param_urls"
 }
 `
 
