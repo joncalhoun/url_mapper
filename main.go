@@ -250,7 +250,19 @@ var data = `
   "/14.8.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.8.2-Update_gal",
   "/14.8.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.8.1-Edit_gal...book-14.8.2-Update_gal",
   "/14.8.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.8.3-Update_gal_model",
-  "/14.8.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.8.2-Update_gal...book-14.8.3-Update_gal_model"
+  "/14.8.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.8.2-Update_gal...book-14.8.3-Update_gal_model",
+  "/14.9": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.9-Delete_gal",
+  "/14.9-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.8.3-Update_gal_model...book-14.9-Delete_gal",
+  "/14.10.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.10.1-Gal_ByUserID",
+  "/14.10.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.9-Delete_gal...book-14.10.1-Gal_ByUserID",
+  "/14.10.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.10.2-Gal_IndexHandler",
+  "/14.10.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.10.1-Gal_ByUserID...book-14.10.2-Gal_IndexHandler",
+  "/14.10.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.10.3-Gal_IndexView",
+  "/14.10.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.10.2-Gal_IndexHandler...book-14.10.3-Gal_IndexView",
+  "/14.11.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.11.1-Redirects",
+  "/14.11.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.10.3-Gal_IndexView...book-14.11.1-Redirects",
+  "/14.11.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.11.2-Nav",
+  "/14.11.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.11.1-Redirects...book-14.11.2-Nav"
 }
 `
 
