@@ -262,7 +262,19 @@ var data = `
   "/14.11.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.11.1-Redirects",
   "/14.11.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.10.3-Gal_IndexView...book-14.11.1-Redirects",
   "/14.11.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-14.11.2-Nav",
-  "/14.11.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.11.1-Redirects...book-14.11.2-Nav"
+  "/14.11.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.11.1-Redirects...book-14.11.2-Nav",
+  "/15.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.1-Image_form",
+  "/15.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-14.11.2-Nav...book-15.1-Image_form",
+  "/15.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.2-Image_handler",
+  "/15.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.1-Image_form...book-15.2-Image_handler",
+  "/15.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.3-ImageService",
+  "/15.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.2-Image_handler...book-15.3-ImageService",
+  "/15.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.4-ByGalleryID",
+  "/15.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.3-ImageService...book-15.4-ByGalleryID",
+  "/15.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.5-Static_files",
+  "/15.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.4-ByGalleryID...book-15.5-Static_files",
+  "/15.6": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.6-Img_cols",
+  "/15.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.5-Static_files...book-15.6-Img_cols"
 }
 `
 
