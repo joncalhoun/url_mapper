@@ -274,7 +274,9 @@ var data = `
   "/15.5": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.5-Static_files",
   "/15.5-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.4-ByGalleryID...book-15.5-Static_files",
   "/15.6": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.6-Img_cols",
-  "/15.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.5-Static_files...book-15.6-Img_cols"
+  "/15.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.5-Static_files...book-15.6-Img_cols",
+  "/15.7": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.7-Del_img",
+  "/15.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.6-Img_cols...book-15.7-Del_img"
 }
 `
 
