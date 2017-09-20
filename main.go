@@ -276,7 +276,19 @@ var data = `
   "/15.6": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.6-Img_cols",
   "/15.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.5-Static_files...book-15.6-Img_cols",
   "/15.7": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.7-Del_img",
-  "/15.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.6-Img_cols...book-15.7-Del_img"
+  "/15.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.6-Img_cols...book-15.7-Del_img",
+  "/16.1": "/tree/book-16.1-Error_handling",
+  "/16.1-diff": "/compare/book-15.7-Del_img...book-16.1-Error_handling",
+  "/16.2": "/tree/book-16.2-Assets",
+  "/16.2-diff": "/compare/book-16.1-Error_handling...book-16.2-Assets",
+  "/16.3": "/tree/book-16.3-CSRF",
+  "/16.3-diff": "/compare/book-16.2-Assets...book-16.3-CSRF",
+  "/16.4": "/tree/book-16.4-Static_MW",
+  "/16.4-diff": "/compare/book-16.3-CSRF...book-16.4-Static_MW",
+  "/16.5.1": "/tree/book-16.5.1-Special_chars",
+  "/16.5.1-diff": "/compare/book-16.4-Static_MW...book-16.5.1-Special_chars",
+  "/16.5.2": "/tree/book-16.5.2-Upload_redirect",
+  "/16.5.2-diff": "/compare/book-16.5.1-Special_chars...book-16.5.2-Upload_redirect"
 }
 `
 
