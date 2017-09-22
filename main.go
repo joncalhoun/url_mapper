@@ -277,19 +277,29 @@ var data = `
   "/15.6-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.5-Static_files...book-15.6-Img_cols",
   "/15.7": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-15.7-Del_img",
   "/15.7-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.6-Img_cols...book-15.7-Del_img",
-  "/16.1": "/tree/book-16.1-Error_handling",
-  "/16.1-diff": "/compare/book-15.7-Del_img...book-16.1-Error_handling",
-  "/16.2": "/tree/book-16.2-Assets",
-  "/16.2-diff": "/compare/book-16.1-Error_handling...book-16.2-Assets",
-  "/16.3": "/tree/book-16.3-CSRF",
-  "/16.3-diff": "/compare/book-16.2-Assets...book-16.3-CSRF",
-  "/16.4": "/tree/book-16.4-Static_MW",
-  "/16.4-diff": "/compare/book-16.3-CSRF...book-16.4-Static_MW",
-  "/16.5.1": "/tree/book-16.5.1-Special_chars",
-  "/16.5.1-diff": "/compare/book-16.4-Static_MW...book-16.5.1-Special_chars",
-  "/16.5.2": "/tree/book-16.5.2-Upload_redirect",
-  "/16.5.2-diff": "/compare/book-16.5.1-Special_chars...book-16.5.2-Upload_redirect"
+  "/16.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-16.1-Error_handling",
+  "/16.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-15.7-Del_img...book-16.1-Error_handling",
+  "/16.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-16.2-Assets",
+  "/16.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-16.1-Error_handling...book-16.2-Assets",
+  "/16.3": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-16.3-CSRF",
+  "/16.3-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-16.2-Assets...book-16.3-CSRF",
+  "/16.4": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-16.4-Static_MW",
+  "/16.4-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-16.3-CSRF...book-16.4-Static_MW",
+  "/16.5.1": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-16.5.1-Special_chars",
+  "/16.5.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-16.4-Static_MW...book-16.5.1-Special_chars",
+  "/16.5.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-16.5.2-Upload_redirect",
+  "/16.5.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-16.5.1-Special_chars...book-16.5.2-Upload_redirect",
+
+  "/func-opts-dave": "https://dave.cheney.net/2016/11/13/do-not-fear-first-class-functions",
+  "/func-opts-jon": "https://www.calhoun.io/using-functional-options-instead-of-method-chaining-in-go/",
+  "/do-ssh-tut": "https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets",
 }
 `
+
+// book-16.6.1-Config
+// book-16.6.2-Func_opts
+// book-16.6.3-JSON_cfg
+// book-16.7.4-Caddyfile
+// book-16.7.5-Deploy_script
 
 // env GOOS=linux GOARCH=amd64 go build . && ssh root@members.usegolang.com "sudo service url_mapper stop" && scp url_mapper root@members.usegolang.com:~/url_mapper && ssh root@members.usegolang.com "sudo service url_mapper restart"
