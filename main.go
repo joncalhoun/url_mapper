@@ -289,17 +289,21 @@ var data = `
   "/16.5.1-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-16.4-Static_MW...book-16.5.1-Special_chars",
   "/16.5.2": "https://gitlab.com/joncalhoun/lenslocked.com/tree/book-16.5.2-Upload_redirect",
   "/16.5.2-diff": "https://gitlab.com/joncalhoun/lenslocked.com/compare/book-16.5.1-Special_chars...book-16.5.2-Upload_redirect",
+  "/16.6.1": "/tree/book-16.6.1-Config",
+  "/16.6.1-diff": "/compare/book-16.5.2-Upload_redirect...book-16.6.1-Config",
+  "/16.6.2": "/tree/book-16.6.2-Func_opts",
+  "/16.6.2-diff": "/compare/book-16.6.1-Config...book-16.6.2-Func_opts",
+  "/16.6.3": "/tree/book-16.6.3-JSON_cfg",
+  "/16.6.3-diff": "/compare/book-16.6.2-Func_opts...book-16.6.3-JSON_cfg",
+  "/16.7.4": "/tree/book-16.7.4-Caddyfile",
+  "/16.7.4-diff": "/compare/book-16.6.3-JSON_cfg...book-16.7.4-Caddyfile",
+  "/16.7.7": "/tree/book-16.7.7-Deploy_script",
+  "/16.7.7-diff": "/compare/book-16.7.4-Caddyfile...book-16.7.7-Deploy_script",
 
   "/func-opts-dave": "https://dave.cheney.net/2016/11/13/do-not-fear-first-class-functions",
   "/func-opts-jon": "https://www.calhoun.io/using-functional-options-instead-of-method-chaining-in-go/",
-  "/do-ssh-tut": "https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets",
+  "/do-ssh-tut": "https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets"
 }
 `
-
-// book-16.6.1-Config
-// book-16.6.2-Func_opts
-// book-16.6.3-JSON_cfg
-// book-16.7.4-Caddyfile
-// book-16.7.5-Deploy_script
 
 // env GOOS=linux GOARCH=amd64 go build . && ssh root@members.usegolang.com "sudo service url_mapper stop" && scp url_mapper root@members.usegolang.com:~/url_mapper && ssh root@members.usegolang.com "sudo service url_mapper restart"
